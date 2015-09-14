@@ -1,44 +1,55 @@
-<!DOCTYPE html>
+<!doctype html>
 <html>
   <head>
-    <meta charset='utf-8'>
+    <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
-
-    <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
-    <link rel="stylesheet" type="text/css" href="stylesheets/github-dark.css" media="screen">
-    <link rel="stylesheet" type="text/css" href="stylesheets/print.css" media="print">
-
     <title>RTFM by galvao</title>
+    <link rel="stylesheet" href="stylesheets/styles.css">
+    <link rel="stylesheet" href="stylesheets/github-dark.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+    <script src="javascripts/respond.js"></script>
+    <!--[if lt IE 9]>
+      <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <!--[if lt IE 8]>
+    <link rel="stylesheet" href="stylesheets/ie.css">
+    <![endif]-->
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
   </head>
-
   <body>
+      <div id="header">
+        <nav>
+          <li class="fork"><a href="https://github.com/galvao/RTFM">View On GitHub</a></li>
+          <li class="downloads"><a href="https://github.com/galvao/RTFM/zipball/master">ZIP</a></li>
+          <li class="downloads"><a href="https://github.com/galvao/RTFM/tarball/master">TAR</a></li>
+          <li class="title">DOWNLOADS</li>
+        </nav>
+      </div><!-- end header -->
 
-    <header>
-      <div class="container">
-        <h1>RTFM</h1>
-        <h2>A Manifesto for sanity regarding seeking help for your development related issues.</h2>
+    <div class="wrapper">
 
-        <section id="downloads">
-          <a href="https://github.com/galvao/RTFM/zipball/master" class="btn">Download as .zip</a>
-          <a href="https://github.com/galvao/RTFM/tarball/master" class="btn">Download as .tar.gz</a>
-          <a href="https://github.com/galvao/RTFM" class="btn btn-github"><span class="icon"></span>View on GitHub</a>
-        </section>
-      </div>
-    </header>
+      <section>
+        <div id="title">
+          <h1>RTFM</h1>
+          <p>A Manifesto for sanity regarding seeking help for your development related issues.</p>
+          <hr>
+          <span class="credits left">Project maintained by <a href="https://github.com/galvao">galvao</a></span>
+          <span class="credits right">Hosted on GitHub Pages &mdash; Theme by <a href="https://twitter.com/michigangraham">mattgraham</a></span>
+        </div>
 
-    <div class="container">
-      <section id="main_content">
         <h1>
 <a id="rtfm---read-this-freaking-manifesto" class="anchor" href="#rtfm---read-this-freaking-manifesto" aria-hidden="true"><span class="octicon octicon-link"></span></a>RTFM - <strong>R</strong>ead <strong>T</strong>his <strong>F</strong>reaking <strong>M</strong>anifesto</h1>
 
 <h5>
-<a id="available-translations-none-at-the-time" class="anchor" href="#available-translations-none-at-the-time" aria-hidden="true"><span class="octicon octicon-link"></span></a>Available Translations: None at the time</h5>
+<a id="available-translations-none-at-the-time-submit-yours-via-pr" class="anchor" href="#available-translations-none-at-the-time-submit-yours-via-pr" aria-hidden="true"><span class="octicon octicon-link"></span></a>Available Translations: None at the time <a href="https://github.com/galvao/RTFM">(Submit yours via PR)</a>
+</h5>
 
-<p><a href="https://github.com/galvao/RTFM">(Submit yours via PR)</a></p>
+<p>It's time people realize that the most effort they put on questions they ask better and faster responses they'll get.</p>
 
-<p>It's time people realize that the most effort they put on questions they ask better and faster responses they'll get.
-I propose we stop indulging people who are too lazy to have some basic common sense when asking questions.
-Whenever you see someone ignoring these rules, post a link to this Manifesto (or the appropriate translation).</p>
+<p>It's time we stop enabling people who are too lazy to have some basic common sense when asking questions.</p>
+
+<p>Whenever you see someone ignoring the following rules, post a link to this Manifesto (or the appropriate translation).</p>
 
 <p>Here's what you should know about posting questions related to development/programming:</p>
 
@@ -47,18 +58,8 @@ Whenever you see someone ignoring these rules, post a link to this Manifesto (or
 <p>Before posting:</p>
 
 <ul>
-<li>RTFM: Search the documentation of the [language/component/library/etc..];
-
-<ul>
-<li>These must be the first search you do;</li>
-</ul>
-</li>
-<li>Search the [list|forum|channel|etc...] for similar questions before asking yours;
-
-<ul>
-<li>This must be the second search you do;</li>
-</ul>
-</li>
+<li>RTFM: Search the documentation of the [language/component/library/etc..];</li>
+<li>Search the [list|forum|channel|etc...] for similar questions before asking yours;</li>
 <li>No off-topic questions;
 
 <ul>
@@ -77,7 +78,7 @@ Whenever you see someone ignoring these rules, post a link to this Manifesto (or
 <li>No matter how small or simple. Use <a href="http://gist.github.com/">Gist</a> or a <a href="https://en.wikipedia.org/wiki/Pastebin">Pastebin</a> service;</li>
 </ul>
 </li>
-<li>Make sure you code is syntatically correct;
+<li>Make sure your code is syntatically correct;
 
 <ul>
 <li>Use a linter or try to run it at least once;</li>
@@ -92,7 +93,7 @@ Whenever you see someone ignoring these rules, post a link to this Manifesto (or
 <li>Avoid asking questions like "Which [language|framework|Operating System|etc...] is the best; 
 
 <ul>
-<li>In the vast majority of cases there's no clear/right answer for questions like this;</li>
+<li>In the vast majority of cases there's no clear/right answer for questions like these;</li>
 </ul>
 </li>
 </ul>
@@ -133,12 +134,19 @@ Whenever you see someone ignoring these rules, post a link to this Manifesto (or
 <li>Read above;</li>
 </ul>
 </li>
+<li>Don't argue with an answer without good reason for doing so;
+
+<ul>
+<li>"I don't like this answer" is not a valid point;</li>
+</ul>
+</li>
 </ul>
 </li>
 </ul>
       </section>
-    </div>
 
+    </div>
+    <!--[if !IE]><script>fixScale(document);</script><![endif]-->
     
   </body>
 </html>
