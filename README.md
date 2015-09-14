@@ -1,6 +1,6 @@
 # RTFM - **R**ead **T**his **F**reaking **M**anifesto
 
-##### Available Translations: None at the time [(Submit yours via PR)](https://github.com/galvao/RTFM)
+##### Available Translations: [pt-BR](https://github.com/galvao/RTFM/pt/BR) [(Submit yours via PR)](https://github.com/galvao/RTFM)
 
 It's time people realize that the more effort they put into questions they ask, the better and faster responses they'll get.
 
@@ -11,7 +11,7 @@ Whenever you see someone ignoring the following rules, post a link to this Manif
 Here's what you should know about posting questions related to development/programming:
 
 * Before posting:
-  * RTFM: Search the documentation of the [language/component/library/etc..];
+  * RTFM: Search the documentation of the [language|component|library|etc..];
   * Search the [list|forum|channel|etc...] for similar questions before asking yours;
   * No off-topic questions;
     * Unless explicitly allowed and if so, check for special rules for those;
@@ -23,7 +23,7 @@ Here's what you should know about posting questions related to development/progr
     * Use a linter or try to run it at least once;
   * Avoid asking questions that are too broad; 
     * Like "How do I make a Facebook clone?";
-  * Avoid asking questions like "Which [language|framework|Operating System|etc...] is the best; 
+  * Avoid asking questions like "Which [language|framework|Operating System|etc...] is the best"; 
     * In the vast majority of cases there's no clear/right answer for questions like these;
 
 * While posting:
