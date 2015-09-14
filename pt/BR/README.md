@@ -1,6 +1,6 @@
 # RTFM - **R**ead **T**his **F**reaking **M**anifesto (Leia Este Maldito Manifesto)
 
-##### Traduções disponíveis: [en-US](https://github.com/galvao/RTFM) [(Submit yours via PR)](https://github.com/galvao/RTFM)
+##### Traduções disponíveis: [en-US](https://github.com/galvao/RTFM) [(Envia a sua via PR)](https://github.com/galvao/RTFM)
 
 Já é hora das pessoas entenderem que quanto mais esforço colocarem em suas perguntas, melhores e mais rápidas serão as respostas obtidas.
 

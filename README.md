@@ -1,6 +1,6 @@
 # RTFM - **R**ead **T**his **F**reaking **M**anifesto
 
-##### Available Translations: [pt-BR](https://github.com/galvao/RTFM/pt/BR) [(Submit yours via PR)](https://github.com/galvao/RTFM)
+##### Available Translations: [pt-BR](https://github.com/galvao/RTFM/tree/master/pt/BR) [(Submit yours via PR)](https://github.com/galvao/RTFM)
 
 It's time people realize that the more effort they put into questions they ask, the better and faster responses they'll get.
 
