@@ -3,7 +3,9 @@
 ##### Available Translations: None at the time [(Submit yours via PR)](https://github.com/galvao/RTFM)
 
 It's time people realize that the most effort they put on questions they ask better and faster responses they'll get.
+
 It's time we stop enabling people who are too lazy to have some basic common sense when asking questions.
+
 Whenever you see someone ignoring the following rules, post a link to this Manifesto (or the appropriate translation).
 
 Here's what you should know about posting questions related to development/programming:
