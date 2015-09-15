@@ -32,7 +32,7 @@ Here's what you should know about posting questions related to development/progr
   * Don't be rude;
 
 * After posting:
-  * Be patient: No one has the duty to answer your question (Really, just like that)
+  * Be patient: No one has the duty to answer your question (Really, just like that);
     * People are not being mean to you;
     * They are not ignoring you;
     * They may not know the answer;
