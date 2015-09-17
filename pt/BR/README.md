@@ -13,6 +13,12 @@ Aqui está o que você deveria saber sobre postar perguntas relacionadas a desen
 * Antes de postar:
   * RTFM: Pesquise a documentação da [linguagem|componente|biblioteca|etc...];
   * Pesquise a [lisat|forum|canal|etc...] por questões similares antes de postar a sua;
+     1. Escreva sua questão primeiro em um editor de texto como bloco de notas, Vim, etc;
+     2. Retire todas as preposições (ex: *de*, *com*, *para*, *sem*, etc) e todos os pronomes do texto;
+     3. Das palavras que sobrarem, separe as mais relevantes para descrever seu problema;
+     4. Ordene as palavras chave e utilize-as para fazer sua pesquisa.
+         * *Texto original*: Estou recebendo o erro `AAAA` ao fazer `BBBB` no `CCCC`.
+         * *Texto para pesquisa*: `CCCC` erro `AAAA` `BBBB`
   * Sem perguntas off-topic;
     * A não ser quando explicitamente permitidas e nesse caso, procure por regras especiais para estas;
   * Sem perguntas tema-de-casa;
