@@ -12,6 +12,12 @@ Here's what you should know about posting questions related to development/progr
 
 * Before posting:
   * RTFM: Search the documentation of the [language|component|library|etc..];
+    1. Write your question first in a text editor, like notepad, Vim, etc;
+    2. Remove all prepositions (eg: *at*, *in*, *on*, *from*, etc) and all pronouns from the text;
+    3. With the words left, extract those that are more relevant to describe your problem;
+    4. Sort those keywords and use them to do your research;
+      * *Original text*: I am getting the `AAA` error when doing `BBB` on `CCC`
+      * *Research text*: `CCC` error `AAA` `BBB`
   * Search the [list|forum|channel|etc...] for similar questions before asking yours;
   * No off-topic questions;
     * Unless explicitly allowed and if so, check for special rules for those;
