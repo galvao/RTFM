@@ -12,7 +12,7 @@ Aqui está o que você deveria saber sobre postar perguntas relacionadas a desen
 
 * Antes de postar:
   * RTFM: Pesquise a documentação da [linguagem|componente|biblioteca|etc...];
-  * Pesquise a [lisat|forum|canal|etc...] por questões similares antes de postar a sua;
+  * Pesquise a [lista|forum|canal|etc...] por questões similares antes de postar a sua;
      1. Escreva sua questão primeiro em um editor de texto como bloco de notas, Vim, etc;
      2. Retire todas as preposições (ex: *de*, *com*, *para*, *sem*, etc) e todos os pronomes do texto;
      3. Das palavras que sobrarem, separe as mais relevantes para descrever seu problema;
